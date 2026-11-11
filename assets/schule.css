@@ -1580,9 +1580,6 @@ svg {
   }
   .home-entry .hero-location { margin-bottom: .55rem; }
   .home-entry .lead { margin-top: .7rem; }
-  .home-entry .hero-photo {
-    order: 1;
-  }
   .home-entry .quick-section {
     padding-top: 0;
   }
